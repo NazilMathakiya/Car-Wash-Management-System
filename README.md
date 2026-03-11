@@ -27,7 +27,6 @@ An efficient project to overcome the problem in traditional car wash system.
 ## 📜 License
 
 This project is developed for **academic and learning purposes only**.  
-You are free to use and modify this project for educational purposes.
 
 
 ## 👨‍💻 Author
