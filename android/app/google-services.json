@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4097325442",
+    "project_id": "cleango-865d6",
+    "storage_bucket": "cleango-865d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4097325442:android:4b438c382833c8edcd379b",
+        "android_client_info": {
+          "package_name": "com.example.car_wash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_U3U-pXm46zu57r9_8UljLXsOHDmN8mA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
